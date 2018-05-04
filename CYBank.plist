@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.com.csii.test.TJBHCountry.UAT.cy</string>
+				<string>com.hmczbank.mobileBank.uat</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
