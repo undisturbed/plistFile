@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://9.54.8.117/CYBank/production/MobileBankProject.ipa</string>
+					<string>http://9.54.8.117/CYBank/hmczbank/MobileBankProject.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.com.csii.test.TJBHCountry.UAT.cy</string>
+				<string>com.czyhfzlm.pmbs</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>惠民村镇银行生产测试客户端</string>
+				<string>惠民村镇银行</string>
 			</dict>
 		</dict>
 	</array>
